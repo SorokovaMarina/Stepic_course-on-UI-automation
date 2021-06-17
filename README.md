@@ -1,2 +1,2 @@
-# Stepic_course-on-UI-automation
+# Stepic_course_on_UI_automation
 Homework for the course
